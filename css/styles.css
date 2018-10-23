@@ -1,0 +1,138 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.box{
+	background-image:url(../images/solar.png);
+	background-attachment: fixed;
+	overflow:hidden;
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:0;
+	}
+
+.box>h1{
+	color:#fff;
+	font-weight:100;
+	text-align:center;
+	margin-top:12%;
+	margin-bottom: 3%;
+	padding: 3%;
+}
+.box>h2{
+	color:#fff;
+	font-weight:100;
+	text-align:center;
+	margin-bottom: 3%;
+	padding: 3%;
+}
+.box>p{
+	text-align:center;
+	margin-bottom:10%;
+}
+.solar {
+	margin:0;
+	background-image:url(../images/solarinstallation.png);
+	background-attachment: fixed;
+	overflow:hidden;
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.solar > h1 {
+	color:#fff;
+	background-attachment: fixed;
+	font-weight:100;
+	text-align:center;
+	margin-top:12%;
+	margin-bottom: 3%;
+	padding: 3%;
+}
+
+.solar >h2 {
+	color:#fff;
+	background-attachment: fixed;
+	font-weight:100;
+	text-align:center;
+	margin-bottom: 2%;
+}
+.solar >p{
+	text-align:center;
+	background-attachment: fixed;
+	margin-bottom:10%;
+}
+.jumbotron > h1 {
+	text-align:center;
+	font-weight:100;
+	margin-top:5%;
+}
+.col-md-6 > h1 {
+	margin-top:5%;
+	text-align:left;
+	font-weight:100;
+}
+.col-md-6 > h3 {
+	font-weight:100;
+	text-align:left;
+}
+.col-md-6 >p {
+	text-align:left;
+	margin-left:5%;
+}
+.col-md-6 >btn btn-primary {
+	text-align:left;
+	margin-left:0;
+	
+}
+.about {
+	background-image:url(../images/hahasmartoffice.png);
+	background-repeat:no-repeat;
+	overflow:hidden;
+	background-size: cover;
+}
+.about>h1 {
+	color:#fff;
+	font-weight:100;
+	text-align:center;
+	margin-top:5%;
+	margin-bottom: 12%;
+}
+.about >h3 {
+	color:#fff;
+	font-weight:100;
+	text-align:left;
+	margin-left:5%;
+}
+.about >p {
+	color:#fff;
+	font-weight:100;
+	text-align:justify;
+	margin-left:5%;
+	margin-right: 50%;
+}
+.contact {
+	background-image:url(../images/contactus.png);
+	background-repeat:no-repeat;
+	overflow:hidden;
+	background-size: cover;
+}
+.contact>h1 {
+	color:#fff;
+	font-weight:100;
+	text-align:center;
+	margin-top:5%;
+	margin-bottom: 12%;
+}
+.contact >h2 {
+	color:#fff;
+	font-weight:100;
+	text-align:center;
+	margin-bottom:10%;
+}
+.col-md-6>img {
+	margin-left:5%;
+}
+.blockquote-footer>p {
+	margin-left:5%;
+	margin-right:5%;
+}
+	
